@@ -66,7 +66,7 @@ nodejs-crud-api/
    DB_TRUST_SERVER_CERTIFICATE=true
 
    # Server Configuration
-   PORT=3000
+   PORT=3001
    NODE_ENV=development
    ```
 
@@ -259,6 +259,3 @@ You can test the API using:
    - Ensure required fields are provided
    - Verify email format
 
-## License
-
-ISC License
